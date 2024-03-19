@@ -1,0 +1,25 @@
+{
+  "name": "deliveryexpress-server",
+  "version": "1.0.0",
+  "description": "Delivery Express Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdesignervinayak/deliveryexpress-server.git"
+  },
+  "keywords": [
+    "server",
+    "express",
+    "node",
+    "react"
+  ],
+  "author": "Vinayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdesignervinayak/deliveryexpress-server/issues"
+  },
+  "homepage": "https://github.com/webdesignervinayak/deliveryexpress-server#readme"
+}
